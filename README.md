@@ -12,13 +12,13 @@ As a hypothetical applicant for this role, I was tasked with:
 ## My Approach
 1. Data Extraction with SQL:
 
--Utilized MySQL to run queries and pull the necessary data.
+- Utilized MySQL to run queries and pull the necessary data.
 2. Data Visualization:
 
--Leveraged Power BI to visualize the output, making the insights clear and compelling.
+- Leveraged Power BI to visualize the output, making the insights clear and compelling.
 3. Presentation Design:
 
--Designed an engaging and professional presentation in Microsoft PowerPoint to effectively communicate the insights.
+- Designed an engaging and professional presentation in Microsoft PowerPoint to effectively communicate the insights.
 4. Actionable Insights:
 
--Provided actionable insights and recommendations to assist the management team in making informed decisions
+- Provided actionable insights and recommendations to assist the management team in making informed decisions
