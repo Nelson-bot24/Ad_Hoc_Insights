@@ -22,3 +22,22 @@ As a hypothetical applicant for this role, I was tasked with:
 4. Actionable Insights:
 
 - Provided actionable insights and recommendations to assist the management team in making informed decisions
+## Outcome
+Through this project, I demonstrated my ability to handle complex data queries and present findings in an engaging and insightful manner. This experience not only honed my technical skills but also enhanced my ability to communicate data-driven insights effectively.
+## Files in this Repository
+- ad-hoc-requests.pdf: Document containing the 10 ad hoc business requests.
+- SQL Queries: Folder containing SQL scripts used to extract data.
+- Power BI Visualizations: Folder containing Power BI files with data visualizations.
+- Presentation: PowerPoint file showcasing insights and recommendations.
+## How to Use
+1. SQL Queries:
+
+- Navigate to the SQL Queries folder.
+- Run the SQL scripts in your MySQL environment to extract the necessary data.
+2. Power BI Visualizations:
+
+- Open the Power BI files in Power BI Desktop to view the visualizations.
+3. Presentation:
+
+- Open the PowerPoint file to view the presentation designed for top-level management.
+This project is a demonstration of my skills in data analysis, SQL querying, dat
